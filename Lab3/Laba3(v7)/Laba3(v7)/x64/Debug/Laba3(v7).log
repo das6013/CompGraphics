@@ -1,0 +1,37 @@
+﻿  app.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+  camera.cpp
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+  facets.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\facets.cpp(67,54): warning C4267: инициализация: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+  graphics.cpp
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(74,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(74,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(75,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(75,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(80,40): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(86,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\graphics.cpp(87,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+  Laba3(v7).cpp
+  main.cpp
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\main.cpp(109,17): warning C4244: инициализация: преобразование "LONGLONG" в "uint16_t", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\main.cpp(115,10): warning C4101: buffer: неиспользованная локальная переменная
+  matrix.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.cpp(15,1): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  model.cpp
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\Laba3(v7)\model.cpp(8,1): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  Создание кода...
+LINK : warning LNK4067: неоднозначная точка входа; выбрана "WinMainCRTStartup"
+  Laba3(v7).vcxproj -> C:\Users\andru\Desktop\Computer Graphics\Lab3\Laba3(v7)\x64\Debug\Laba3(v7).exe
