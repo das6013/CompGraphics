@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\andru\Desktop\Computer Graphics\Lab1\Laba1(v7)\main.cpp(109,17): warning C4244: инициализация: преобразование "LONGLONG" в "uint16_t", возможна потеря данных
+C:\Users\andru\Desktop\Computer Graphics\Lab1\Laba1(v7)\main.cpp(115,10): warning C4101: buffer: неиспользованная локальная переменная
+  Laba1(v7).vcxproj -> C:\Users\andru\Desktop\Computer Graphics\Lab1\x64\Debug\Laba1(v7).exe
