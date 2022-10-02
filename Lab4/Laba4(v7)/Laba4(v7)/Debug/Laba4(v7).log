@@ -1,0 +1,5 @@
+﻿  app.cpp
+  The contents of <numbers> are available only with C++20 or later.
+C:\Users\Dmitry\Desktop\Компьютерная графика\Laba4(v7)\Laba4(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Dmitry\Desktop\Компьютерная графика\Laba4(v7)\Laba4(v7)\app.cpp(38,25): warning C4244: аргумент: преобразование "int32_t" в "float", возможна потеря данных
+  Laba4(v7).vcxproj -> C:\Users\Dmitry\Desktop\Компьютерная графика\Laba4(v7)\Debug\Laba4(v7).exe
