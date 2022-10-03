@@ -51,6 +51,7 @@ void Surface::SetAngles(float roll, float pitch)
 	s = sin(roll);
 	c = cos(roll);
 
+	//Поворот осб OZ 
 	Matrix R_x
 	{
 		{ 1, 0, 0, 0 },
