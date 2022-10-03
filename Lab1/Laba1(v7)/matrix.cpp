@@ -1,5 +1,7 @@
 #include "matrix.h"
 
+
+//constructor rows and columnc
 Matrix::Matrix(uint32_t _rows, uint32_t _columns)
 	: std::vector<Row>(_rows, Row(_columns))
 	, rows(_rows)
@@ -8,6 +10,7 @@ Matrix::Matrix(uint32_t _rows, uint32_t _columns)
 
 }
 
+//conscructor matrix
 Matrix::Matrix(std::initializer_list<Row> matrix)
 	: std::vector<Row>(matrix)
 	, rows(matrix.size())
@@ -16,6 +19,7 @@ Matrix::Matrix(std::initializer_list<Row> matrix)
 
 }
 
+//powe matrix
 const Matrix Matrix::operator*(const Matrix &obj) const
 {
 	Matrix res(rows, obj.columns);

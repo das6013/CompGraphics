@@ -1,36 +1,37 @@
 ﻿  app.cpp
   The contents of <numbers> are available only with C++20 or later.
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
   camera.cpp
   The contents of <ranges> are available only in c++latest mode with concepts support;
   see https://github.com/microsoft/STL/issues/1814 for details.
   The contents of <numbers> are available only with C++20 or later.
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
   graphics.cpp
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(74,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(74,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(75,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(75,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(80,40): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(86,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\graphics.cpp(87,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(74,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(74,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(75,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(75,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(80,40): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(86,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\graphics.cpp(87,22): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
   main.cpp
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\main.cpp(109,17): warning C4244: инициализация: преобразование "LONGLONG" в "uint16_t", возможна потеря данных
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\main.cpp(115,10): warning C4101: buffer: неиспользованная локальная переменная
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\main.cpp(109,17): warning C4244: инициализация: преобразование "LONGLONG" в "uint16_t", возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\main.cpp(115,10): warning C4101: buffer: неиспользованная локальная переменная
   matrix.cpp
   The contents of <numbers> are available only with C++20 or later.
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.cpp(15,1): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.cpp(15,1): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
   model.cpp
   The contents of <ranges> are available only in c++latest mode with concepts support;
   see https://github.com/microsoft/STL/issues/1814 for details.
   The contents of <numbers> are available only with C++20 or later.
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\model.cpp(8,1): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\model.cpp(8,1): warning C4267: аргумент: преобразование из "size_t" в "uint32_t"; возможна потеря данных
   wireframe.cpp
   The contents of <ranges> are available only in c++latest mode with concepts support;
   see https://github.com/microsoft/STL/issues/1814 for details.
   The contents of <numbers> are available only with C++20 or later.
-C:\Users\andru\Desktop\Computer Graphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\Laba2(v7)\matrix.h(8,22): warning C4305: инициализация: усечение из "double" в "float"
   Создание кода...
-  Laba2(v7).vcxproj -> C:\Users\andru\Desktop\Computer Graphics\Lab2\x64\Debug\Laba2(v7).exe
+  LINK : не найден или не выполнена сборка C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\x64\Debug\Laba2(v7).exe при последней инкрементной компоновке; выполняется полная компоновка
+  Laba2(v7).vcxproj -> C:\Users\andru\Documents\GitHub\CompGraphics\Lab2\x64\Debug\Laba2(v7).exe

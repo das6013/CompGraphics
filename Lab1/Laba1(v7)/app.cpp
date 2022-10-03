@@ -7,7 +7,7 @@
 #include "app.h"
 
 bool App::_isRunnig = false;
-
+//Задание фигуры с помощью вершин и граней
 Figure rectangle(
 	{
 	{ 0, 0 },
@@ -26,6 +26,7 @@ void App::Run()
 	_isRunnig = true;
 }
 
+// метод рисующий фигуры
 void App::Draw()
 {
 	Graphics g;

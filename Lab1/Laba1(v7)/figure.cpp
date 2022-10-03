@@ -22,7 +22,9 @@ void Figure::SetPivot(uint32_t vertex)
 	pivot_ = vertex;
 }
 
-void Figure::Scaling(float s1, float s2) {
+//formula scale
+void Figure::Scaling(float s1, float s2) 
+{
 	Matrix translation
 	{
 		{ s1, 0, 0 },
@@ -36,6 +38,8 @@ void Figure::Scaling(float s1, float s2) {
 	vertices_ = vertices_ * translation;
 	Translate(offset_x, offset_y);
 }
+
+//formula sdviga 
 void Figure::Translate(float x, float y)
 {
 	Matrix translation
@@ -48,6 +52,8 @@ void Figure::Translate(float x, float y)
 	vertices_ = vertices_ * translation;
 }
 
+
+//rotate figure with matrix sin cos
 void Figure::Rotate(float ang)
 {
 	ang *= pi / 180;
